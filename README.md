@@ -8,12 +8,12 @@ This is a dynamic website created using Python, Django, and a SQLite database.
 
  #Functional Requirements 
  1] Admin 
- can log In
- can add polls
- can delete polls
- can declare result
- can check voter
+ can log In,
+ can add polls,
+ can delete polls,
+ can declare result,
+ can check voter.
 
  2] Registered Voter
- can vote
- can check result
+ can vote,
+ can check result.
